@@ -4,9 +4,9 @@ Hello world
 1. CCC
 
 ## Part I
-- #
-- ordered list
-- unordered list
+- hai gei le yi ge animation
+- hao sha ya
+- tai sha le!!!
 
 ## Part II
 **bold**
